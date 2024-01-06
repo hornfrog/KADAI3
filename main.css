@@ -1,0 +1,18 @@
+table{
+    width: 300px;
+}
+
+.display{
+    width: 320px;
+    background-color: black;
+}
+
+input{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+tr:last-child{
+    width: 320px;
+}
